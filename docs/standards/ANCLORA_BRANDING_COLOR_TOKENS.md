@@ -559,7 +559,9 @@ Fuente: `src/app/globals.css` real — `#00DC82` confirmado con 625 apariciones,
 
 ---
 
-## Anclora SyncXML (Premium)
+## Anclora GuestHub (Premium)
+
+*(Renombrado de Anclora SyncXML, 2026-08; tokens sin cambios.)*
 
 Accent: Dorado apagado `#BFA46A`
 
